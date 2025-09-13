@@ -79,7 +79,7 @@ We welcome community contributions to make these apps better!
 
 ## 📧 Contact
 For issues, suggestions, or collaborations:  
-📩 Email: **aedtpworld@gmail.com** (example — replace with your actual contact)  
+📩 Email: **aedtpworld@gmail.com** 
 🌐 Website: *(coming soon)*  
 
 ---
