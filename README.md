@@ -86,3 +86,72 @@ For issues, suggestions, or collaborations:
 
 ## 📄 License
 This project is licensed under the **MIT License** — free to use, modify, and distribute.
+
+
+
+AEDTP WORLD is a Ghana-based technology company founded by Emmanuel Deliver Amable on April 14, 2024. The company specializes in global distribution, promotional services, and innovative software solutions, with a particular focus on the music, education, and business sectors.
+
+🌍 Company Overview
+
+Founder: Emmanuel Deliver Amable
+
+Headquarters: Ghana
+
+Founded: April 14, 2024
+
+Industry: Distribution, Technology, and Promotional Services
+
+Global Reach: Over 150 countries
+
+Website: aedtpworld.codedesign.app
+
+🎵 Key Services
+
+Global Distribution Networks: AEDTP WORLD offers extensive reach across more than 150 countries, ensuring timely and efficient delivery of digital products and content. 
+SoundBetter
+
+Promotional Services: The company provides a comprehensive suite of services, including SEO, social media marketing, lead generation, and more, to enhance visibility and engagement. 
+SoundBetter
+
+Latest Technology Solutions: AEDTP WORLD employs state-of-the-art technology to streamline logistics, supply chain management, and customer support, ensuring seamless operations. 
+SoundBetter
+
+Reliable Logistics and Supply Chain Management: Expertise in managing complex logistics and supply chains to ensure seamless delivery. 
+SoundBetter
+
+📱 AEDTP WORLD AI & Cayla AI
+
+AEDTP WORLD AI is a multipurpose artificial intelligence platform developed by the company. Launched in January 2025, it aims to support education, business, and productivity tasks. The platform includes various applications:
+
+Cayla AI: A general AI assistant and learning platform.
+
+Cayla AI Game: Educational quizzes and interactive features.
+
+Cayla AI Social Networking: A lightweight social platform for learners and users. 
+AEDTP World AI
+
+🛒 AEDTP WORLD App Store
+
+The AEDTP WORLD App Store serves as a centralized hub for downloading various applications, software, and programs across multiple operating systems, including Android, Windows, iOS, Mac OS, and Linux. 
+aedtpworldappstore.apk.com
+
+🌐 Community Engagement
+
+AEDTP WORLD fosters a structured approach to community management, featuring:
+
+Major Categories: 10 primary categories that serve as the foundation for the platform's content and communities.
+
+Sub-Categories: Smaller, more specific categories within each major category.
+
+Communities, Groups, and Pages: User-generated communities, groups, and pages within each sub-category.
+
+Rules and Guidelines: AEDTP WORLD sets rules for some communities and groups, while community admins can establish their own rules. 
+Mdundo
+
+📞 Contact Information
+
+Email: aedtpworld@gmail.com
+
+Address: Volta Region, Ghana
+
+Website: aedtpworld.codedesign.app
