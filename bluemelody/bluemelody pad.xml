@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <!-- PAD File Version -->
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+  </MASTER_PAD_VERSION_INFO>
+
+  <!-- Company Info -->
+  <Company_Info>
+    <Company_Name>AEDTP WORLD</Company_Name>
+    <Address>Volta Region, Ghana</Address>
+    <Country>Ghana</Country>
+    <Email>aedtpworld@gmail.com</Email>
+    <Website_URL>https://aedtpworld.codedesign.app</Website_URL>
+    <Website_Info_URL>https://aedtpworld.neocities.org/</Website_Info_URL>
+  </Company_Info>
+
+<Program_Info>
+  <Program_Name>Blue Melody</Program_Name>
+  <Program_Version>1.0</Program_Version>
+  <Program_Release_Date>2025-09-06</Program_Release_Date>
+  <Program_Type>Application</Program_Type>
+  <Program_Cost_Dollars>0</Program_Cost_Dollars>
+  <Program_Cost_Other>Freeware</Program_Cost_Other>
+  <Program_Description>
+    Blue Melody is a lightweight offline music player for Windows.
+  </Program_Description>
+</Program_Info>
+
+  <!-- Program Links -->
+  <Program_Links>
+    <Program_Icon_File_URL>
+      https://aedtpworld.github.io/apps/bluemelody/icon.png
+    </Program_Icon_File_URL>
+    <Program_Screenshot_URL>
+      https://aedtpworld.github.io/apps/bluemelody/screenshot.png
+    </Program_Screenshot_URL>
+    <Program_Download_URL>
+    https://aedtpworld.github.io/apps/bluemelody/blue-melody-setup.exe
+  </Program_Download_URL>
+  <Program_Info_URL>
+    https://aedtpworld.github.io/apps/bluemelody/
+    </Program_Info_URL>
+  </Program_Links>
+</XML_DIZ_INFO>
