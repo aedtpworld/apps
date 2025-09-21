@@ -1,119 +1,61 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CHEMOLAB Downloads - AEDTP WORLD</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background: linear-gradient(to right, #243949, #517fa4);
-      color: #fff;
-    }
-    header {
-      background: rgba(0, 0, 0, 0.7);
-      padding: 20px;
-      text-align: center;
-    }
-    header img {
-      height: 50px;
-      vertical-align: middle;
-    }
-    header h1 {
-      display: inline-block;
-      margin: 0 0 0 10px;
-      font-size: 24px;
-      vertical-align: middle;
-    }
-    .container {
-      max-width: 900px;
-      margin: 20px auto;
-      padding: 20px;
-      background: rgba(255, 255, 255, 0.1);
-      border-radius: 10px;
-    }
-    .description {
-      font-size: 16px;
-      line-height: 1.6;
-      margin-bottom: 30px;
-    }
-    .download-buttons {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 20px;
-      margin-bottom: 30px;
-    }
-    .download-buttons a {
-      flex: 1;
-      text-align: center;
-      background: #ff9800;
-      color: #fff;
-      padding: 15px;
-      border-radius: 8px;
-      font-size: 18px;
-      text-decoration: none;
-      font-weight: bold;
-      transition: background 0.3s;
-    }
-    .download-buttons a:hover {
-      background: #e68900;
-    }
-    .screenshots {
-      text-align: center;
-    }
-    .screenshots img {
-      max-width: 100%;
-      height: auto;
-      margin: 10px;
-      border-radius: 8px;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.5);
-    }
-    footer {
-      text-align: center;
-      padding: 15px;
-      margin-top: 40px;
-      background: rgba(0, 0, 0, 0.6);
-      font-size: 14px;
-    }
-    footer a {
-      color: #ff9800;
-      text-decoration: none;
-    }
-  </style>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Chemolab — AEDTP WORLD</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body>
-  <header>
-    <img src="https://aedtpworld.github.io/apps/chemolab/chemolab.png" alt="CHEMOLAB Logo" title="CHEMOLAB">
-    <h1>CHEMOLAB Downloads</h1>
-  </header>
+<body class="bg-gray-900 text-gray-100 min-h-screen flex flex-col items-center justify-center p-6">
+  <div class="max-w-lg w-full text-center">
+    <!-- Logo -->
+    <img src="https://aedtpworld.github.io/apps/chemolab/chemolab.png" 
+         alt="Chemolab Icon" 
+         class="w-20 h-20 mx-auto mb-4 rounded-lg shadow" 
+         title="CHEMOLAB">
 
-  <div class="container">
-    <div class="description">
-      <p><strong>CHEMOLAB</strong> by <strong>AEDTP WORLD</strong> is a free offline educational chemistry app designed for students, teachers, and self-learners. 
-      Explore Biochemistry, Organic Chemistry, Inorganic Chemistry, Physical Chemistry, and more with step-by-step solutions, practice questions, and answers. 
-      Works fully offline in any modern web browser.</p>
+    <!-- App Name -->
+    <h1 class="text-3xl font-bold">CHEMOLAB</h1>
+    <p class="mt-2 text-gray-400">An offline educational chemistry lab app by AEDTP WORLD.</p>
+    
+    <!-- Screenshot -->
+    <img src="https://aedtpworld.github.io/apps/chemolab/screenshot1.jpg" 
+         alt="Chemolab Screenshot" 
+         class="mt-6 rounded-lg shadow-lg">
+
+    <!-- Download Buttons -->
+    <div class="mt-8 grid gap-3">
+      <a href="https://aedtpworld.github.io/apps/chemolab/chemolab.exe" 
+         class="block px-4 py-2 bg-indigo-600 rounded shadow hover:bg-indigo-700">
+         Download for Windows (.exe)
+      </a>
+      <a href="https://aedtpworld.github.io/apps/chemolab/chemolab.zip" 
+         class="block px-4 py-2 bg-gray-700 rounded hover:bg-gray-600">
+         Download (ZIP)
+      </a>
+      <a href="https://github.com/aedtpworld/apps/tree/main/chemolab" 
+         class="block px-4 py-2 bg-green-600 rounded shadow hover:bg-green-700" 
+         target="_blank">
+         🔄 Check for Updates (GitHub)
+      </a>
+      <a href="chemolabpad.xml" 
+         class="block px-4 py-2 bg-yellow-600 rounded shadow hover:bg-yellow-700">
+         Download PAD XML
+      </a>
+      <a href="LICENSE.txt" 
+         class="block px-4 py-2 bg-red-600 rounded shadow hover:bg-red-700">
+         View License
+      </a>
+      <a href="README.md" 
+         class="block px-4 py-2 bg-blue-600 rounded shadow hover:bg-blue-700">
+         View README
+      </a>
     </div>
 
-    <div class="download-buttons">
-      <a href="https://aedtpworld.github.io/apps/chemolab/chemolab.exe" download>Download EXE (Windows)</a>
-      <a href="https://aedtpworld.github.io/apps/chemolab/chemolab.zip" download>Download ZIP (All Devices)</a>
-      <a href="https://github.com/aedtpworld/apps/tree/main/chemolab" target="_blank">🔄 Check for Updates (GitHub)</a>
-    </div>
-
-    <div class="screenshots">
-      <h2>App Screenshots</h2>
-      <img src="https://aedtpworld.github.io/apps/chemolab/screenshot1.jpg" alt="CHEMOLAB Screenshot 1">
-      <img src="https://aedtpworld.github.io/apps/chemolab/screenshot2.png" alt="CHEMOLAB Screenshot 2">
-      <img src="https://aedtpworld.github.io/apps/chemolab/screenshot3.png" alt="CHEMOLAB Screenshot 3">
-    </div>
+    <!-- Footer -->
+    <p class="mt-6 text-sm text-gray-500">
+      Back to <a href="../" class="underline">AEDTP WORLD Apps</a>
+    </p>
   </div>
-
-  <footer>
-    © 2025 AEDTP WORLD • Educational Software • 
-    <a href="mailto:aedtpworld@gmail.com">Contact Support</a>
-  </footer>
 </body>
 </html>
-
