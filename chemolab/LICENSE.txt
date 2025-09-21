@@ -1,0 +1,46 @@
+CHEMOLAB - AEDTP WORLD Software™
+
+Copyright (c) 2025 AEDTP WORLD
+
+All rights reserved.
+
+LICENSE TERMS:
+1. This software is provided for educational purposes only.
+2. You may use this app for personal study, classroom use, or offline learning.
+3. Redistribution, sale, or modification without written permission from AEDTP WORLD is prohibited.
+4. Copying questions, solutions, or topics for commercial use is not allowed.
+5. AEDTP WORLD provides no warranty; use at your own risk.
+6. Feedback, suggestions, or contributions should be sent to AEDTP WORLD.
+
+HOW TO USE CHEMOLAB:
+1. Open index.html in a web browser.
+2. From the main menu, select 'Categories' to view topics by category, or 'All Topics' to view everything.
+3. Click a topic to see its subtopics.
+4. Click a subtopic to view solutions, questions, and answers.
+5. Navigate back to main menu using the header logo or browser navigation.
+6. All content works offline; no internet connection is required.
+
+APP PROPERTIES:
+- Name: CHEMOLAB
+- Developer: AEDTP WORLD
+- Version: 1.0
+- Last Updated: 2025
+- Interface: Multi-page HTML, CSS, and JS
+- Features: 
+   • Categories of chemistry topics
+   • Topics and subtopics
+   • Step-by-step solutions
+   • Questions and answers for self-testing
+   • Clean card-style interface with hover effects
+   • Fully offline usage
+- System Requirements: Any modern web browser
+
+CREDITS:
+- Developed by AEDTP WORLD
+- Inspired by standard chemistry curricula
+
+SUPPORT & FEEDBACK:
+- Contact: aedtpworld@gmail.com
+
+DISCLAIMER:
+- Educational purposes only. Not a replacement for textbooks or instructors.
