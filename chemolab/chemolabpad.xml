@@ -1,1 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <!-- PAD File Version -->
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+  </MASTER_PAD_VERSION_INFO>
+
+  <!-- Company Info -->
+  <Company_Info>
+    <Company_Name>AEDTP WORLD</Company_Name>
+    <Address>Volta Region, Ghana</Address>
+    <Country>Ghana</Country>
+    <Email>aedtpworld@gmail.com</Email>
+    <Website_URL>https://aedtpworld.codedesign.app</Website_URL>
+    <Website_Info_URL>https://aedtpworld.neocities.org/</Website_Info_URL>
+  </Company_Info>
+
+  <!-- Program Info -->
+  <Program_Info>
+    <Program_Name>CHEMOLAB</Program_Name>
+    <Program_Version>1.0</Program_Version>
+    <Program_Release_Date>2025-09-21</Program_Release_Date>
+    <Program_Type>Application</Program_Type>
+    <Program_Category>Educational</Program_Category>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Cost_Other>Freeware</Program_Cost_Other>
+    <Program_Description>
+      CHEMOLAB by AEDTP WORLD is a free offline educational chemistry app designed 
+      for students, teachers, and self-learners. It organizes chemistry into 
+      Categories, Topics, Subtopics, Solutions, Questions, and Answers with a 
+      clean multi-page HTML interface. Users can explore Biochemistry, Organic 
+      Chemistry, Inorganic Chemistry, Physical Chemistry, and Pure Chemistry 
+      with interactive self-test questions and step-by-step solutions.
+
+      Features include:
+      • Organized by categories and alphabetic topic menus
+      • Explanations of core concepts (buffers, pH, neutralization, stoichiometry, etc.)
+      • Detailed study notes on Amino Acids, Proteins, Enzymes, Periodic Table, and more
+      • Self-test questions with answers to reinforce learning
+      • Clean card-style design with hover effects
+      • Works fully offline in any modern web browser
+      • Freeware – no cost, no internet required
+
+      CHEMOLAB is ideal for classroom use, revision, and independent study. 
+      It is developed and maintained by AEDTP WORLD, Ghana, as part of their 
+      mission to create accessible educational software and creative tools.
+    </Program_Description>
+
+    <Program_Tags>
+      Chemolab, AEDTP WORLD, Chemistry App, Educational Software, Offline Learning, 
+      Student Resource, Classroom Tool, Study Aid, Biochemistry, Organic Chemistry, 
+      Inorganic Chemistry, Physical Chemistry, Pure Chemistry, Chemistry Topics, 
+      Chemistry Subtopics, Chemistry Questions, Chemistry Answers, Chemistry Solutions, 
+      Buffers, pH Calculations, Neutralization, Amino Acids, Proteins, Enzymes, Alkanes, 
+      Alkenes, Alcohols, Periodic Table, Coordination Compounds, Stoichiometry, 
+      Buffer Solutions, Henderson Hasselbalch, Buffer Capacity, Science Education, 
+      Ghana EdTech, Freeware Chemistry Software
+    </Program_Tags>
+  </Program_Info>
+
+  <!-- Program Links -->
+  <Program_Links>
+    <Program_Icon_File_URL>
+      https://aedtpworld.github.io/apps/chemolab/chemolab.png
+      https://aedtpworld.github.io/apps/chemolab/chemolab.ico
+    </Program_Icon_File_URL>
+    <Program_Screenshot_URL>
+      https://aedtpworld.github.io/apps/chemolab/screenshot1.jpg
+      https://aedtpworld.github.io/apps/chemolab/screenshot2.png
+      https://aedtpworld.github.io/apps/chemolab/screenshot3.png
+      https://aedtpworld.github.io/apps/chemolab/screenshot4.jpg
+      https://aedtpworld.github.io/apps/chemolab/screenshot5.png
+      https://aedtpworld.github.io/apps/chemolab/screenshot6.jpg
+      https://aedtpworld.github.io/apps/chemolab/screenshot7.jpg
+      https://aedtpworld.github.io/apps/chemolab/screenshot8.jpg
+      https://aedtpworld.github.io/apps/chemolab/screenshot9.jpg
+    </Program_Screenshot_URL>
+    <Program_Download_URL>
+      https://aedtpworld.github.io/apps/chemolab/chemolab.exe
+      https://aedtpworld.github.io/apps/chemolab/chemolab.zip
+    </Program_Download_URL>
+    <Program_Info_URL>
+      https://aedtpworld.github.io/apps/chemolab/
+    </Program_Info_URL>
+  </Program_Links>
+</XML_DIZ_INFO>
 
