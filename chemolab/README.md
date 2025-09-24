@@ -23,8 +23,8 @@ The app is fully offline and works in any modern web browser.
 ---
 
 ## 📥 Downloads
-- [⬇️ Download EXE (Windows)]([https://files.fm/f/xs8z3ms5q6](https://drive.google.com/file/d/1W31t29FAByx3jlyPkUGUOPxgsQJ0afZG/view?usp=sharing))  
-- [⬇️ Download ZIP (All Devices)]([https://files.fm/f/edpwjxt8h2](https://drive.google.com/file/d/10mEVcy_ezgQqbCk0UTBcq74pMu6mPLHM/view?usp=sharing))  
+- [⬇️ Download EXE (Windows)](https://github.com/aedtpworld/apps/releases/download/aedtpworld/CHEMOLAB.exe)  
+- [⬇️ Download ZIP (All Devices)](https://github.com/aedtpworld/apps/releases/download/aedtpworld/CHEMOLAB.zip)  
 - [🔄 Check for Updates (GitHub)](https://github.com/aedtpworld/apps/tree/main/chemolab)
 
 ---
